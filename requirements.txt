@@ -1,3 +1,4 @@
 requests-cache
 pillow
 plotly
+fast-colorthief

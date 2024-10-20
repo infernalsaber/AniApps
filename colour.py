@@ -1,7 +1,5 @@
 import numpy as np
-import pandas as pd
 from PIL import Image
-from sklearn.cluster import KMeans
 import math
 import fast_colorthief
 

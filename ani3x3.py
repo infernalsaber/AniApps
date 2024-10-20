@@ -11,9 +11,7 @@ import requests_cache
 requests_cache.install_cache("my_cache", expire_after=3600)
 
 from image_utils import ImageText
-import textwrap
 
-from hikari import Color
 # imgw = ImageText((800, 600), background=(255, 255, 255, 200))
 from colour import find_closest_color
 
